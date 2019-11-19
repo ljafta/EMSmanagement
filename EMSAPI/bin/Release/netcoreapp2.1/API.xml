@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EMS</name>
+    </assembly>
+    <members>
+        <member name="M:EMS.Controllers.AgentDevicesController.GetDeviceInfo">
+            <summary>
+            List all ComputerInfo (Devices)
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.DiskDetailsController.GetDiskID(System.Guid)">
+            <summary>
+            List Disk Id
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.DiskDetailsController.GetDiskInfo">
+            <summary>
+            List of all Disk Info
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.DiskDetailsController.PutEmail(EMS.Models.DiskDetails)">
+            <summary>
+            Create an Email approval
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.HardwareDetailsController.GetSummaryInfo">
+            <summary>
+            List all ComputerInfo (Devices)
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.HardwareDetailsController.GetHardwareID(System.Guid)">
+            <summary>
+            List Hard ID
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.HardwareDetailsController.Getahardware(EMS.Models.HardwareDetails)">
+            <summary>
+            Create an Email approval
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.IPAddressDetailsController.GetIPAdd(System.Guid)">
+            <summary>
+            List all sofwaredetails
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.IPAddressDetailsController.PutEmail(System.Collections.Generic.List{EMS.Models.IPAddressDetails})">
+            <summary>
+            Create an Email approval
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.RegistryDetailsController.GetHardwareID(System.Guid)">
+            <summary>
+            List all ComputerInfo (Devices)
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.RegistryDetailsController.GetRegistry">
+            <summary>
+            List of all Registry values 
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.RegistryDetailsController.PutEmail(System.Collections.Generic.List{EMS.Models.RegistryDetails})">
+            <summary>
+            Create an Email approval
+            </summary>
+        </member>
+        <member name="M:EMS.Controllers.SoftwareDetailsController.GetSoftwareUUID(System.Guid)">
+             <summary>
+            test
+             </summary>
+        </member>
+        <member name="M:EMS.Controllers.SoftwareDetailsController.GetSoftwareDetails">
+            <summary>
+            List all sofwaredetails
+            </summary>
+        </member>
+    </members>
+</doc>
